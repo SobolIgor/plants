@@ -110,6 +110,20 @@ a {
   font-style: var(--card-paragraph-font-font-style);
 }
 
+.element-home-page .text-wrapper-language {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: var(--card-paragraph-font-font-family);
+  font-weight: var(--card-paragraph-font-font-weight);
+  color: var(--main-bg-white-color);
+  font-size: var(--card-paragraph-font-font-size);
+  letter-spacing: var(--card-paragraph-font-letter-spacing);
+  line-height: var(--card-paragraph-font-line-height);
+  white-space: nowrap;
+  font-style: var(--card-paragraph-font-font-style);
+}
+
 .element-home-page .div-3 {
   display: inline-flex;
   align-items: center;
@@ -693,7 +707,7 @@ a {
   position: relative;
   flex: 0 0 auto;
 }
-
+__________________________________________________________
 .element-home-page .p {
   position: relative;
   width: fit-content;
